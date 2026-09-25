@@ -1,0 +1,14 @@
+SEP182026
+Continuation of sep16th java files with the Driver and cat.java
+figure out the differentiation between public and private variables, methods and classes
+learn about the standards of these
+
+Really have to absorb the differences in classes and using methods across classes etc. the difference between public private. 
+really understand object oriented programming
+understand set get get used to writing them
+
+assignment empty string for dog set method checks and sets the name to dog
+if empty for breed set to mixed
+for age set the limits to between 1 & 20 only
+
+Set and get

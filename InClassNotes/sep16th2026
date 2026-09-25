@@ -1,0 +1,27 @@
+Class object = new Constructor(); 
+class - object - instance variables - constructors - set/get methods
+public/private/protected - class variables - class methods - arrays of objects
+created Test.java in the terminal and compiled it ("vi Test.java", ":q - enter " "ls -l" - ""
+
+setup a class and a driver file the class controls the actual variables were calling.
+Similar to using a file reader or writer. 
+Weve basically made our own. And can do whatever we want with it. kinda like a super method.
+ AND you can have multiple versions just but adding a new one like "Cat cat1" "Cat cat2" etc
+ you can also set then equal to eachother like is shown at line 22 this just equals exactly what cat 2 does. 
+ But this creates three instances only pointing at two objects (Cat.java) The reason is because we did
+ not call the full call for the class (Like Cat cat1 = new Cat();) 
+ in the little snippit above its the new Cat(); part that actually created the cat object
+ calling cat3 = cat2 jsut points cat3 towards the existing cat 2
+ everytime the object is re-called it resets the values it basically recycles instead of creating anything new.  
+ 
+ creating public Cat is the constructor. does not have a retun type. 
+ 
+ This.anything refers to the variables being passes into the method inside of the class file(cat.java) 
+ it just ensures that whats being passes in is the correct values i believe.
+ cannot have another constructor that takes in string string if one already exists.
+ 
+ The constructors are basically used to initalize the object
+ 
+ having the public cat(){} method inside of the cat.java ensures that an empty method can still be looked at.
+ 
+ Lookup constructors - 

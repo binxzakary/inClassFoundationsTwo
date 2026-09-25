@@ -1,0 +1,11 @@
+SEP212026
+
+This is explanation of the assignment due friday
+txt file opf orders each row of the text file is an instance of an order instance
+each row after 1 represents an order instance
+create an order class setup instance variable for each row is a different object 
+similar to the cat one there is different instances like breed age and name but instead of animal stuff its order total
+order class is defining the row, 
+only focusing on the order object, total, and order id 
+one method will  be reading the file the other will be to display
+using printf();
